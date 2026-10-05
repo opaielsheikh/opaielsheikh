@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/opaielsheikh/opaielsheikh/main/assets/llm-post-training-research.gif"
+    src="./assets/llm-post-training-research.gif"
     alt="LLM post-training research"
     width="100%"
   />
