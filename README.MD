@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=LLM%20Post-Training%20Research&fontSize=34&fontColor=ffffff&color=0:0B1020,100:F28C28"
-    width="100%"
-    alt="LLM Post-Training Research"
-  />
-</p>
 
 <p align="center">
   <img
