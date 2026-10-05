@@ -15,7 +15,10 @@
 </p>
 
 <p align="center">
+  Researching how language models learn from feedback and become more reliable.
+</p>
+
+<p align="center">
   AI Research Engineer at
   <a href="https://launchpulse.ai">LaunchPulse.ai</a>
 </p>
-
